@@ -24,3 +24,7 @@ inoremap <buffer> ( 9
 inoremap <buffer> ) 0
 inoremap <buffer> _ -
 
+" also swap : and ;
+inoremap <buffer> ; :
+inoremap <buffer> : ;
+
